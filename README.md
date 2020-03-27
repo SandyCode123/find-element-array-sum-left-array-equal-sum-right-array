@@ -5,7 +5,7 @@ https://www.geeksforgeeks.org/find-element-array-sum-left-array-equal-sum-right-
 
 Given, an array of size n. Find an element which divides the array in two sub-arrays with equal sum.
 
-My solution at Demo.javva runs at O(n).
+My solution at Demo.javva runs at O(n). It is performed in exactly maximum one pass of an array without any additional space requirement. So space complexity is O(1).
 
 Examples:
 
