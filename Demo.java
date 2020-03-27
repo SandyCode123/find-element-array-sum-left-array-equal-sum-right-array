@@ -39,4 +39,3 @@ public class Demo {
 		System.out.println(findElement(arr, size)); 
 	} 
 } 
-// This code is contributed by Sumit Ghosh 
